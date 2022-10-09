@@ -1,0 +1,30 @@
+ body {
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)) ,url("https://www.ultimatefoodarticle.com/images/hero.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+#customers{
+    background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)) ,url("https://www.ultimatefoodarticle.com/images/hero.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    color: white;
+    padding: 90px;
+    font-size: 17px;
+
+}
+
+.navbar-nav .nav-item .nav-link{
+    color: white;
+    background: red;
+}
+
+.heading{
+    position: absolute;
+    color: white;
+    top: 350px;
+    right: 570px;
+    left: 570px
+}
